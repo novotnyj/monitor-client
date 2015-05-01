@@ -1,6 +1,6 @@
 {
-  "name": "Monitor client",
-  "version": "0.0.2",
+  "name": "novotnyj/monitor-client",
+  "version": "0.0.3",
   "require": {
     "novotnyj/http-helper": "~2.0"
   },
