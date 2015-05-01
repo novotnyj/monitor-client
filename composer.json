@@ -1,7 +1,16 @@
 {
   "name": "Monitor client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "require": {
     "novotnyj/http-helper": "~2.0"
+  },
+  "authors": [
+    {
+      "name": "Jan Novotny",
+      "email": "naj.yntovon@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
   }
 }
